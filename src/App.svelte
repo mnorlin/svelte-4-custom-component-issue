@@ -1,4 +1,4 @@
-<svelte:options tag="my-counter" />
+<svelte:options customElement="my-counter" />
 
 <script>
   let count = 0;
